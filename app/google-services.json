@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216405645946",
+    "project_id": "authenticationdemo-dfcb8",
+    "storage_bucket": "authenticationdemo-dfcb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216405645946:android:b82b405f471f9b955bb9c3",
+        "android_client_info": {
+          "package_name": "com.kanyideveloper.firebaseauthenticationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216405645946-gtqcv1qn33ankdv9fcp66iepld5s8phf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBUcJF4s4HRTEmN8X7Z8Dijg1qZOASSnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216405645946-gtqcv1qn33ankdv9fcp66iepld5s8phf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

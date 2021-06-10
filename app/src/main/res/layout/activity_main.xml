@@ -36,7 +36,7 @@
         android:src="@drawable/ic_undraw_missed_chances" />
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress"
+        android:id="@+id/editTextaTextRegisterEmailAddress"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -66,9 +66,9 @@
         android:hint="Password"
         android:drawablePadding="20dp"
         android:inputType="textPassword"
-        app:layout_constraintEnd_toEndOf="@+id/editTextTextEmailAddress"
-        app:layout_constraintStart_toStartOf="@+id/editTextTextEmailAddress"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextEmailAddress"
+        app:layout_constraintEnd_toEndOf="@+id/editTextaTextRegisterEmailAddress"
+        app:layout_constraintStart_toStartOf="@+id/editTextaTextRegisterEmailAddress"
+        app:layout_constraintTop_toBottomOf="@+id/editTextaTextRegisterEmailAddress"
         android:drawableLeft="@drawable/ic_baseline_lock_24" />
 
     <com.google.android.material.button.MaterialButton
